@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...teamwork
 - 📫 How to reach me ...jamesatuta@gmail.com
 - 😄 Pronouns: ...he
-- ⚡ Fun fact: ...all rights reserved
+- ⚡ Fun fact: ...all rights reserved and  and copyrighet
 
 <!---
 jamesatuta/jamesatuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
